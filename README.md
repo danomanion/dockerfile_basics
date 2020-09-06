@@ -1,6 +1,7 @@
 # Docker tutorial part 3 dockerfile 
 Commands for docker used in tutorial provided by ItGuyMichal
 https://youtu.be/js5hj10kyqQ
+Builded image on docker hub: https://hub.docker.com/repository/docker/misohu/jupyterlab
 
 Facebook:
 https://www.facebook.com/ItGuyMichal
